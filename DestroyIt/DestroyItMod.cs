@@ -7,7 +7,7 @@ namespace DestroyIt;
 
 [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
 [BepInDependency("com.jotunn.jotunn", BepInDependency.DependencyFlags.HardDependency)]
-[NetworkCompatibility(CompatibilityLevel.NotEnforced, VersionStrictness.None)]
+[NetworkCompatibility(CompatibilityLevel.ServerMustHaveMod, VersionStrictness.Major)]
 public class DestroyItMod : BaseUnityPlugin
 {
     public const string PluginName = "DestroyIt";

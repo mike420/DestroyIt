@@ -25,7 +25,6 @@ Thank you for your support, and happy gaming! ⚔️  ...... (A Paypal account i
   * Destroy **battering rams** and **catapults** with the hammer when nobody is using them.
   * **Demolish**: press a key (`;` by default) to destroy everything you built within a radius around you. It first shows how many pieces it would destroy, and you press the key again to confirm. It follows the hammer's rules (your own pieces, no-build zones, wards) and the boat and cart settings.
   * Skips ValheimRaft boats, which handle their own removal.
-  * Client side: it does not need to be on the server.
 
 <br>
 
@@ -34,9 +33,9 @@ Thank you for your support, and happy gaming! ⚔️  ...... (A Paypal account i
 | Setting | Default | What it does |
 |---|---|---|
 | `Enable Plugin` | On | Turns the plugin on. Needs a restart. |
-| `Require Crafting Station` | Off | If On, a piece can only be destroyed, with the hammer or the Demolish key, when its crafting station (such as the workbench) is near you. That is the game's own rule. If Off, you can destroy pieces wherever you are. |
+| `Require Crafting Station` | Off | If On, a piece can only be destroyed, with the hammer or the Demolish key, when its crafting station (such as the workbench) is near you. That is the game's own rule. If Off, you can destroy pieces wherever you are. Synced with the server. |
 | `Allow Destroy For` | Both | Boats, carts, both or neither. |
-| `Require Empty Container` | On | The chest must be empty before it can be destroyed. |
+| `Require Empty Container` | On | The chest must be empty before it can be destroyed. Synced with the server. |
 | `Allow Destroy Siege Weapons` | On | Battering rams and catapults can be destroyed with the hammer. |
 | `Key` (Demolish) | `;` | Destroys everything you built within the Radius. Any key, or a key with modifiers. |
 | `Require Confirmation` (Demolish) | On | The first press shows how many pieces, and you press the key again within 5 seconds to confirm. |
@@ -47,6 +46,13 @@ Thank you for your support, and happy gaming! ⚔️  ...... (A Paypal account i
 ## 🌍 Translations:
 
 The translation files are in `BepInEx/config/DestroyIt/Translations/<Language>/DestroyIt.json`. Edit them, or add a language, and restart the game.
+
+<br>
+
+## 🌐 Multiplayer:
+
+  * The server must have the mod too. With it installed you can only join servers that also run it. Players without the mod can still join that server. The major version must match the server's (1.x with 1.x).
+  * **Require Crafting Station** and **Require Empty Container** are the server's in multiplayer (only an admin can change them). The other settings are your own.
 
 <br>
 
