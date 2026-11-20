@@ -1,0 +1,5 @@
+{
+  "destroyit_demolished": "Снесено элементов: $1",
+  "destroyit_nothing_to_demolish": "Поблизости нечего сносить",
+  "destroyit_confirm": "Элементов для сноса: $1. Нажмите $2 ещё раз для подтверждения."
+}

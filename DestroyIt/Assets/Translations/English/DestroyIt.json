@@ -1,0 +1,5 @@
+{
+  "destroyit_demolished": "Pieces demolished: $1",
+  "destroyit_nothing_to_demolish": "Nothing to demolish nearby",
+  "destroyit_confirm": "Pieces to demolish: $1. Press $2 again to confirm."
+}

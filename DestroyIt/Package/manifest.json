@@ -1,0 +1,10 @@
+{
+  "name": "DestroyIt",
+  "description": "Destroy boats and carts straight away with the hammer. No more taking an axe to them.",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/mnr36G6J4x",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}

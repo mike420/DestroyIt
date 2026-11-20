@@ -1,0 +1,5 @@
+{
+  "destroyit_demolished": "已拆除的部件：$1",
+  "destroyit_nothing_to_demolish": "附近没有可拆除的东西",
+  "destroyit_confirm": "待拆除的部件：$1。再按一次 $2 确认。"
+}
