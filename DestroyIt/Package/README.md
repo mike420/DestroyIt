@@ -1,6 +1,6 @@
 # 🔨 DestroyIt
 
-Destroy boats and carts straight away with the hammer's remove tool. The base game already knows when a boat or cart could be removed, but switches it off, so everyone ends up taking an axe to them. This turns it back on.
+Destroy boats, carts, battering rams and catapults straight away with the hammer's remove tool. The base game already knows when a boat or cart could be removed, but switches it off, so everyone ends up taking an axe to them. This turns it back on. There is also a Demolish key that destroys everything you built within a radius around you, after asking you to confirm.
 
 <br>
 
@@ -53,3 +53,39 @@ The translation files are in `BepInEx/config/DestroyIt/Translations/<Language>/D
 ## 🙏 Credits:
 
   * Based on <a href="https://github.com/Goldenrevolver/ValheimMiniMods/tree/main/InstantlyDestroyBoatsAndCarts">Instantly Destroy Boats and Carts</a> by Goldenrevolver.
+  
+
+<br>
+
+## 💻 Installation:
+
+### Automatic Install
+
+Plugin is created to be installed with r2modman or Gale.
+For Nexus downloads you will need to install manually.
+
+### Manual Install
+
+  * Un-zip and drag the `DestroyIt` folder in your `BepInEx/plugins/` folder.
+
+<br>
+
+
+## 💥 Plugins Created by Magic Mike:
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/CoreWoodExtras">Corewood Extras</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/CorewoodFortified">Corewood Fortified</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/CorewoodAdditions">Corewood Additions</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/MyDirtyHoe">My Dirty Hoe</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/ChestPreview">Chest Preview</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/YabbaDabbaDoo">YabbaDabbaDoo</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/BetterBuildMenu">Better Build Menu</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/BetterEquipSlots">Better Equip Slots</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/ExtraInventorySlots">Extra Inventory Slots</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/VillagePlebs">Village Plebs</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/EinherjarBodies">Einherjar Bodies</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/ValheimSkies">Valheim Skies</a>
+  * <a href="https://valheim.hexium.gg/mods/MagicMike/AuroraBorealis">Aurora Borealis</a>
+
+<br>
+
+## 💬 Comments/Suggestions/Help: <a href="https://www.nexusmods.com/valheim/mods/2806">Nexus</a>, <a href="https://discord.gg/mnr36G6J4x">Discord</a>.
