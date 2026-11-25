@@ -1,7 +1,7 @@
 {
   "name": "DestroyIt",
   "description": "Destroy boats, carts, battering rams and catapults straight away with the hammer, and demolish everything you built around you with one key. No more taking an axe to them.",
-  "version_number": "1.0.0",
+  "version_number": "1.0.3",
   "website_url": "https://discord.gg/mnr36G6J4x",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2360",
